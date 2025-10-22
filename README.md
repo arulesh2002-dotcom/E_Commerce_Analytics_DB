@@ -11,7 +11,7 @@ It includes SQL files for creating tables, inserting sample data, and running us
 sql/
 ├── create_tables.sql        # Database schema (tables, keys, constraints)
 ├── insert_sample_data.sql   # Sample records for quick testing
-└── queries_examples.sql     # Example analytical queries
+└── queries.sql     # Example analytical queries
 
 
 
